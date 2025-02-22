@@ -22,3 +22,4 @@ export default defineConfig({
     },
   },
 })
+//Tailwind sürüm hatalarına karşı sürümleri kontrol et
